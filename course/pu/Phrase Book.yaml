@@ -1,0 +1,95 @@
+Skill:
+  Id: 
+  Name: Phrase Book
+
+New words:
+
+Phrases:
+  - Phrase: toki
+    Translation: hello
+    Alternative translations:
+      - hello!
+      - hi
+      - hi!
+      
+  - Phrase: pona
+    Translation: great
+    Alternative translations:
+      - thanks
+      - OK
+  
+  - Phrase: pona tawa sina
+    Translation: peace be with you
+    
+  - Phrase: mi tawa
+    Translation: bye # (said by person leaving)
+    
+  - Phrase: tawa pona
+    Translation: bye # (said by person staying)
+    
+  - Phrase: mi wile
+    Alternative versions:
+      - mi wile e ni
+    Translation: please
+    Alternative translations:
+    - I would like
+    
+  - Phrase: ale li pona
+    Translation: all is well
+    Alternative translations:
+    - life is good
+    - "don't worry"
+    - do not worry
+    
+  - Phrase: ike a
+    Translation: oh dear
+    Alternative translations:
+    - oh my
+    
+  - Phrase: lape pona
+    Translation: good night
+    
+  - Phrase: kama pona
+    Translation: welcome
+    
+  - Phrase: moku pona
+    Translation: enjoy your meal
+    
+  - Phrase: seme li sin?
+    Translation: "what's new"
+    Alternative translations:
+    - what is new
+    
+  - Phrase: sina pilin seme?
+    Translation: how are you feeling?
+    
+  - Phrase: a a a!
+    Alternative versions:
+    - a a a
+    Translation: ha ha ha!
+    Alternative translations:
+    - ha ha ha
+      
+  - Phrase: mi kama sona e toki pona
+    Translation: "I'm learning toki pona"
+    Alternative translations:
+    - I am learning toki pona
+    
+  - Phrase: sina pona
+    Translation: "you're cool"
+    Alternative translations:
+    - you are cool
+    - I like you
+    
+  - Phrase: mi olin e sina
+    Translation: I love you
+    
+  - Phrase: tomo telo li lon seme?
+    Translation: where is the washroom?
+      
+Mini-dictionary:
+  toki pona:
+    - toki: hello
+
+  English:
+    - hello: toki
