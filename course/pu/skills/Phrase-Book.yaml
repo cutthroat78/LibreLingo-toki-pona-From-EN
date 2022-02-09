@@ -131,9 +131,7 @@ Mini-dictionary:
     
   English:
     - hello: toki
-    - hello!: toki!
     - hi: toki
-    - hi!: toki!
     - great: pona
     - thanks: pona
     - OK: pona
@@ -175,7 +173,6 @@ Mini-dictionary:
     - how: seme
     - feeling: pilin
     - ha: a
-    - ha!: a!
     - I'm: mi 
     - learning:
     - toki: toki
