@@ -16,3 +16,11 @@ Course:
 
 Modules:
   - pu/
+
+Settings:
+  Audio:
+    Enabled: True
+    TTS:
+      - Provider: Polly
+        Voice: Vicki # Vicki (German) is being used because the letter j in German is pronounce like an English y like in toki pona
+        Engine: standard
