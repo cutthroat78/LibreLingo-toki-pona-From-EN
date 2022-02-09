@@ -22,10 +22,10 @@ Phrases:
     Translation: peace be with you
     
   - Phrase: mi tawa
-    Translation: bye # (said by person leaving)
+    Translation: bye
     
   - Phrase: tawa pona
-    Translation: bye # (said by person staying)
+    Translation: bye
     
   - Phrase: mi wile
     Alternative versions:
@@ -129,4 +129,64 @@ Mini-dictionary:
     - mi tawa: bye (said by person leaving)
     - tawa pona: bye (said by person staying)
     
-  English: []
+    
+  English:
+    - hello: toki
+    - hi: toki
+    - great: pona
+    - thanks: pona
+    - OK: pona
+    - peace: pona
+    - be: (nonexistent direct equivalent)
+    - with: kepeken
+    - you: sina
+    - please: mi wile
+    - I: mi
+    - would: wile
+    - like: 
+      - sama
+      - pona
+    - all:
+      - ale
+      - ali
+    - is: (nonexistent direct equivalent)
+    - well: pona
+    - life:
+      - ale
+      - ali
+    - good: pona
+    - don't: pali ala
+    - worry: (nonexistent direct equivalent)
+    - do: pali
+    - not: ala
+    - oh: a
+    - dear: (nonexistent direct equivalent)
+    - night: lape
+    - welcome: kama pona
+    - enjoy: pona
+    - your: (nonexistent direct equivalent)
+    - meal: moku
+    - what's: seme
+    - what: seme
+    - new: 
+      - sin
+      - namako
+    - how: seme
+    - feeling: pilin
+    - ha: a
+    - I'm: mi 
+    - learning:
+    - toki: toki
+    - pona: pona
+    - you're: sina
+    - are: (nonexistent direct equivalent)
+    - cool:
+      - pona
+      - lete (cool temperature)
+    - love: olin
+    - where: seme
+    - the: (nonexistent direct equivalent)
+    - washroom: tomo telo
+    - bye: 
+      - mi tawa (said by person leaving)
+      - tawa pona (said by person staying)
