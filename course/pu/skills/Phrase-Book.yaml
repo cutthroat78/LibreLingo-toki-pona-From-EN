@@ -154,7 +154,7 @@ Mini-dictionary:
       - ale
       - ali
     - good: pona
-    - don't: pali ala
+    - "don't": pali ala
     - worry: (nonexistent direct equivalent)
     - do: pali
     - not: ala
@@ -165,7 +165,7 @@ Mini-dictionary:
     - enjoy: pona
     - your: (nonexistent direct equivalent)
     - meal: moku
-    - what's: seme
+    - "what's": seme
     - what: seme
     - new: 
       - sin
@@ -173,7 +173,7 @@ Mini-dictionary:
     - how: seme
     - feeling: pilin
     - ha: a
-    - I'm: mi 
+    - "I'm": mi 
     - learning:
     - toki: toki
     - pona: pona
