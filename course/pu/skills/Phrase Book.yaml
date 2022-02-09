@@ -95,29 +95,37 @@ Mini-dictionary:
       - thanks
       - OK
       - peace
+      - good
     - tawa: to go (to)
     - sina: you
     - mi:
       - I
       - me
-    - wile:
-    - e:
-    - ni:
-    - ale:
-    - li:
-    - ike:
-    - a:
-    - lape:
-    - kama:
-    - moku:
-    - seme:
-    - sin:
-    - pilin:
-    - sona:
-    - olin:
+    - wile: need
+    - e: particle used before a direct object
+    - ni: 
+      - that
+      - this
+    - ale: all
+    - li: between any subject except mi alone or sina alone and its verb; also to introduce a new verb for the same subject
+    - ike: bad
+    - a: particle used for emphasis, emotion or confirmation
+    - lape: night
+    - kama: arriving
+    - moku: 
+      - eat
+      - food
+      - meal
+    - seme: where(?)
+    - sin: new
+    - pilin: feeling
+    - sona: to know
+    - olin: (to) love
     - tomo:
-    - telo:
-    - lon:
+      - indoor space
+      - building
+    - telo: water
+    - lon: located at
     
   English:
     - hello: toki
