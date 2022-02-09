@@ -11,6 +11,7 @@ Idea: Each skill has 5 words with two practise sentences
 - [ ] Original words from first book
 - [x] phrase book
   - [x] Do mini-dictionary
+  - [ ] seperate out phrases
 - [ ] place names
   - [ ] continents
   - [ ] africa
