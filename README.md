@@ -12,7 +12,7 @@ Idea: Each skill has 5 words with two practise sentences
 - [x] phrase book
   - [x] Do mini-dictionary
   - [ ] seperate out phrases
-- [ ] place names
+- [ ] place names (Phrases to use: (I am going to _) mi tawa _ , (I live in _) mi kama awen lon ma tomo _ & mi lon ma _ / (ma) tomo mi li lon ma tomo _)
   - [ ] continents
   - [ ] africa
   - [ ] americas
