@@ -18,8 +18,9 @@ Idea: Each skill has 5 words with two practise sentences
 - mi kama awen lon ma tomo _ / mi lon ma _ / (ma) tomo mi li lon ma tomo _ = I live in _
 - mi (kama) tan _ = I come from _
 - _ li ma = _ is a country
-
+  - [ ] Add a markdown with this in it: These suggestions are generally based on how the words are pronounced in the local languages
   - [ ] continents
+    - [ ] Add curly braces to continent words
   - [ ] africa
   - [ ] americas
   - [ ] asia
