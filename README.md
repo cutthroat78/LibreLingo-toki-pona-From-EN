@@ -12,7 +12,12 @@ Idea: Each skill has 5 words with two practise sentences
 - [x] phrase book
   - [x] Do mini-dictionary
   - [ ] seperate out phrases
-- [ ] place names (Phrases to use: (I am going to _) mi tawa _ , (I live in _) mi kama awen lon ma tomo _ & mi lon ma _ / (ma) tomo mi li lon ma tomo _)
+- [ ] place names 
+### Phrases to use for place names: 
+- mi tawa _ = I am going to
+- mi kama awen lon ma tomo _ / mi lon ma _ / (ma) tomo mi li lon ma tomo _ = I live in _
+- _ li ma (suli/lili)) = _ is a (small/big) country/continent
+
   - [ ] continents
   - [ ] africa
   - [ ] americas
