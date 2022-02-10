@@ -1,0 +1,158 @@
+Skill:
+  Id: 
+  Name: Place Names: Continents
+
+New words: 
+  - Word: ma suli
+   Translation: continent
+   
+  - Word: ma Amelika
+    Translation: Americas
+    Also accepted:
+      - the Americas
+      
+  - Word: ma Antasika
+    Translation: Antarctica
+    
+  - Word: ma Apika
+    Translation: Africa
+    
+  - Word: ma Asija
+    Translation: Asia
+    
+  - Word: ma Elopa
+    Translation: Europe
+    
+  - Word: ma Osejanija
+    Translation: Oceania
+  
+Phrases:
+  - Phrase: mi tawa _
+    Translation: I am going to _
+    
+  - Phrase: mi tawa _
+    Translation: I am going to _
+    
+  - Phrase: mi tawa _
+    Translation: I am going to _
+    
+  - Phrase: mi tawa _
+    Translation: I am going to _
+    
+  - Phrase: mi tawa _
+    Translation: I am going to _
+    
+  - Phrase: mi tawa _
+    Translation: I am going to _
+    
+  - Phrase: _ li ma suli
+    Translation: _ is a continent
+    
+  - Phrase: _ li ma suli
+    Translation: _ is a continent
+    
+  - Phrase: _ li ma suli
+    Translation: _ is a continent
+    
+  - Phrase: _ li ma suli
+    Translation: _ is a continent
+    
+  - Phrase: _ li ma suli
+    Translation: _ is a continent
+    
+  - Phrase: _ li ma suli
+    Translation: _ is a continent
+    
+  - Phrase: mi tan _
+    Alternative versions:
+    - mi kama tan
+    Translation: I come from _
+    
+  - Phrase: mi tan _
+    Alternative versions:
+    - mi kama tan
+    Translation: I come from _
+    
+  - Phrase: mi tan _
+    Alternative versions:
+    - mi kama tan
+    Translation: I come from _
+    
+  - Phrase: mi tan _
+    Alternative versions:
+    - mi kama tan
+    Translation: I come from _
+    
+  - Phrase: mi tan _
+    Alternative versions:
+    - mi kama tan
+    Translation: I come from _
+    
+  - Phrase: mi tan _
+    Alternative versions:
+    - mi kama tan
+    Translation: I come from _
+    
+  - Phrase: tomo mi li lon ma tomo _ 
+    Alternative versions:
+    - mi kama awen lon ma tomo _
+    - mi lon ma _
+    - ma tomo mi li lon ma tomo _ 
+    Translation: I live in _
+    
+  - Phrase: tomo mi li lon ma tomo _ 
+    Alternative versions:
+    - mi kama awen lon ma tomo _
+    - mi lon ma _
+    - ma tomo mi li lon ma tomo _ 
+    Translation: I live in _
+    
+  - Phrase: tomo mi li lon ma tomo _ 
+    Alternative versions:
+    - mi kama awen lon ma tomo _
+    - mi lon ma _
+    - ma tomo mi li lon ma tomo _ 
+    Translation: I live in _
+    
+  - Phrase: tomo mi li lon ma tomo _ 
+    Alternative versions:
+    - mi kama awen lon ma tomo _
+    - mi lon ma _
+    - ma tomo mi li lon ma tomo _ 
+    Translation: I live in _
+    
+  - Phrase: tomo mi li lon ma tomo _ 
+    Alternative versions:
+    - mi kama awen lon ma tomo _
+    - mi lon ma _
+    - ma tomo mi li lon ma tomo _ 
+    Translation: I live in _
+    
+  - Phrase: tomo mi li lon ma tomo _ 
+    Alternative versions:
+    - mi kama awen lon ma tomo _
+    - mi lon ma _
+    - ma tomo mi li lon ma tomo _ 
+    Translation: I live in _
+      
+Mini-dictionary:
+  toki pona:
+    - ma Amelika:
+      - Americas
+      - the Americas
+    - ma suli: continent
+    - ma Antasika: Antarctica
+    - ma Apika: Africa
+    - ma Asija: Asia
+    - ma Elopa: Europe
+    - ma Osejanije: Oceania
+    
+  English:
+    - Americas: ma Amelika
+    - the Americas: ma Amelika
+    - continent: ma suli
+    - Antarctica: ma Antasika
+    - Africa: ma Apika
+    - Asia: ma Asija
+    - Europe: ma Elopa
+    - Oceania: ma Osejanije
