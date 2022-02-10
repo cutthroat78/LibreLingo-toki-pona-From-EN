@@ -16,6 +16,7 @@ Idea: Each skill has 5 words with two practise sentences
 ### Phrases to use for place names: 
 - mi tawa _ = I am going to
 - mi kama awen lon ma tomo _ / mi lon ma _ / (ma) tomo mi li lon ma tomo _ = I live in _
+- mi (kama) tan _ = I come from _
 - _ li ma = _ is a country
 
   - [ ] continents
