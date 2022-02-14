@@ -167,6 +167,12 @@ Mini-dictionary:
       - country
       - territory
       - soil 
+    - tomo:
+      - indoor space
+      - building
+      - home
+      - house
+      - room
     
   English:
     - Americas: ma Amelika
@@ -183,3 +189,7 @@ Mini-dictionary:
     - going to: tawa
     - to: (nonexistent direct equivalent)
     - am: (nonexistent direct equivalent)
+    - come: kama
+    - from: tan
+    - live: li lon
+    - in: (nonexistent direct equivalent)
