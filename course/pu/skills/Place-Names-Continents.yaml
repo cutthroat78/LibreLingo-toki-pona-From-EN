@@ -27,122 +27,122 @@ New words:
     
   - Word: ma Osejanija
     Translation: Oceania
-  
+
 Phrases:
-  - Phrase: mi tawa ma Amelika
+  - Phrase: mi tawa "{ma Amelika}"
     Translation: I am going to the Americas
     Alternative translations:
     - I am going to Americas
     
-  - Phrase: mi tawa ma Antasika
+  - Phrase: mi tawa "{ma Antasika}"
     Translation: I am going to Antarctica
     
-  - Phrase: mi tawa ma Apika
+  - Phrase: mi tawa "{ma Apika}"
     Translation: I am going to Africa
     
-  - Phrase: mi tawa ma Asija
+  - Phrase: mi tawa "{ma Asija}"
     Translation: I am going to Asia
     
-  - Phrase: mi tawa ma Elopa
+  - Phrase: mi tawa "{ma Elopa}"
     Translation: I am going to Europe
     
-  - Phrase: mi tawa ma Osejanija
+  - Phrase: mi tawa "{ma Osejanija}"
     Translation: I am going to Oceania
     
-  - Phrase: ma Amelika li ma suli
+  - Phrase: "{ma Amelika}" li "{ma suli}"
     Translation: The Americas are continents
     Alternative translations:
     - Americas are continents
     
-  - Phrase: ma Antasika li ma suli
+  - Phrase: "{ma Antasika}" li "{ma suli}"
     Translation: Antarctica is a continent
     
-  - Phrase: ma Apika li ma suli
+  - Phrase: "{ma Apika}" li "{ma suli}"
     Translation: Africa is a continent
     
-  - Phrase: ma Asija li ma suli
+  - Phrase: "{ma Asija}" li "{ma suli}"
     Translation: Asia is a continent
     
-  - Phrase: ma Elopa li ma suli
+  - Phrase: "{ma Elopa}" li "{ma suli}"
     Translation: Europe is a continent
     
-  - Phrase: ma Osejanija li ma suli
+  - Phrase: "{ma Osejanija}" li "{ma suli}"
     Translation: Oceania is a continent
     
-  - Phrase: mi tan ma Amelika
+  - Phrase: mi tan "{ma Amelika}"
     Alternative versions:
-    - mi kama tan ma Amelika
+    - mi kama tan "{ma Amelika}"
     Translation: I come from the Americas
     Alternative translations:
     - I come from Americas
     
-  - Phrase: mi tan ma Antasika
+  - Phrase: mi tan "{ma Antasika}"
     Alternative versions:
-    - mi kama tan ma Antasika
+    - mi kama tan "{ma Antasika}"
     Translation: I come from Antarctica
     
-  - Phrase: mi tan ma Apika
+  - Phrase: mi tan "{ma Apika}"
     Alternative versions:
-    - mi kama tan ma Apika
+    - mi kama tan "{ma Apika}"
     Translation: I come from Africa
     
-  - Phrase: mi tan ma Asija
+  - Phrase: mi tan "{ma Asija}"
     Alternative versions:
-    - mi kama tan ma Asija
+    - mi kama tan "{ma Asija}"
     Translation: I come from Asia
     
-  - Phrase: mi tan ma Elopa
+  - Phrase: mi tan "{ma Elopa}"
     Alternative versions:
-    - mi kama tan ma Elopa
+    - mi kama tan "{ma Elopa}"
     Translation: I come from Europe
     
-  - Phrase: mi tan ma Osejanija
+  - Phrase: mi tan "{ma Osejanija}"
     Alternative versions:
-    - mi kama tan ma Osejanija
+    - mi kama tan "{ma Osejanija}"
     Translation: I come from Oceania
     
-  - Phrase: tomo mi li lon ma tomo ma Amelika
+  - Phrase: tomo mi li lon ma tomo "{ma Amelika}"
     Alternative versions:
-    - mi kama awen lon ma tomo ma Amelika
-    - mi lon ma Amelika
-    - ma tomo mi li lon ma tomo ma Amelika 
+    - mi kama awen lon ma tomo "{ma Amelika}"
+    - mi lon "{ma Amelika}"
+    - ma tomo mi li lon ma tomo "{ma Amelika}" 
     Translation: I live in the Americas
     Alternative translations:
     - I live in Americas
     
-  - Phrase: tomo mi li lon ma tomo ma Antasika
+  - Phrase: tomo mi li lon ma tomo "{ma Antasika}"
     Alternative versions:
-    - mi kama awen lon ma tomo ma Antasika
-    - mi lon ma Antasika
-    - ma tomo mi li lon ma tomo ma Antasika
+    - mi kama awen lon ma tomo "{ma Antasika}"
+    - mi lon "{ma Antasika}"
+    - ma tomo mi li lon ma tomo "{ma Antasika}"
     Translation: I live in Antarctica
     
-  - Phrase: tomo mi li lon ma tomo ma Apika
+  - Phrase: tomo mi li lon ma tomo "{ma Apika}"
     Alternative versions:
-    - mi kama awen lon ma tomo ma Apika
-    - mi lon ma Apika
-    - ma tomo mi li lon ma tomo ma Apika
+    - mi kama awen lon ma tomo "{ma Apika}"
+    - mi lon "{ma Apika}"
+    - ma tomo mi li lon ma tomo "{ma Apika}"
     Translation: I live in Africa
     
-  - Phrase: tomo mi li lon ma tomo ma Asija
+  - Phrase: tomo mi li lon ma tomo "{ma Asija}"
     Alternative versions:
-    - mi kama awen lon ma tomo ma Asija
-    - mi lon ma Asija
-    - ma tomo mi li lon ma tomo ma Asija
+    - mi kama awen lon ma tomo "{ma Asija}"
+    - mi lon "{ma Asija}"
+    - ma tomo mi li lon ma tomo "{ma Asija}"
     Translation: I live in Asia
     
-  - Phrase: tomo mi li lon ma tomo ma Elopa
+  - Phrase: tomo mi li lon ma tomo "{ma Elopa}"
     Alternative versions:
-    - mi kama awen lon ma tomo ma Elopa
-    - mi lon ma Elopa
-    - ma tomo mi li lon ma tomo ma Elopa
+    - mi kama awen lon ma tomo "{ma Elopa}"
+    - mi lon "{ma Elopa}"
+    - ma tomo mi li lon ma tomo "{ma Elopa}"
     Translation: I live in Europe
     
-  - Phrase: tomo mi li lon ma tomo ma Osejanija
+  - Phrase: tomo mi li lon ma tomo "{ma Osejanija}"
     Alternative versions:
-    - mi kama awen lon ma tomo ma Osejanija
-    - mi lon ma Osejanija
-    - ma tomo mi li lon ma tomo ma Osejanija
+    - mi kama awen lon ma tomo "{ma Osejanija}"
+    - mi lon "{ma Osejanija}"
+    - ma tomo mi li lon ma tomo "{ma Osejanija}"
     Translation: I live in Oceania
       
 Mini-dictionary:
