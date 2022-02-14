@@ -6,36 +6,36 @@ Skill:
 
 New words: 
   - Word: {ma suli}
-   Translation: continent
+   Translation: {continent}
    
   - Word: {ma Amelika}
-    Translation: Americas
+    Translation: {Americas}
     Also accepted:
-      - the Americas
+      - {the Americas}
       
   - Word: {ma Antasika}
-    Translation: Antarctica
+    Translation: {Antarctica}
     
   - Word: {ma Apika}
-    Translation: Africa
+    Translation: {Africa}
     
   - Word: {ma Asija}
-    Translation: Asia
+    Translation: {Asia}
     
   - Word: {ma Elopa}
-    Translation: Europe
+    Translation: {Europe}
     
   - Word: {ma Osejanija}
-    Translation: Oceania
+    Translation: {Oceania}
   
 Phrases:
   - Phrase: mi tawa {ma Amelika}
-    Translation: I am going to the Americas
+    Translation: I am going to {the Americas}
     Alternative translations:
-    - I am going to Americas
+    - I am going to {Americas}
     
   - Phrase: mi tawa {ma Antasika}
-    Translation: I am going to Antarctica
+    Translation: I am going to {Antarctica}
     
   - Phrase: mi tawa {ma Apika}
     Translation: I am going to Africa
