@@ -159,6 +159,14 @@ Mini-dictionary:
     - ma Asija: Asia
     - ma Elopa: Europe
     - ma Osejanije: Oceania
+    - ma: 
+      - earth
+      - land
+      - outdoors
+      - world
+      - country
+      - territory
+      - soil 
     
   English:
     - Americas: ma Amelika
