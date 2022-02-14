@@ -48,25 +48,25 @@ Phrases:
     
   - Phrase: mi tawa "{ma Osejanija}"
     Translation: I am going to Oceania
-    
-  - Phrase: "{ma Amelika} li {ma suli}"
+  
+  - Phrase: "{ma Amelika} li ma suli"
     Translation: The Americas are continents
     Alternative translations:
     - Americas are continents
     
-  - Phrase: "{ma Antasika} li {ma suli}"
+  - Phrase: "{ma Antasika} li ma suli"
     Translation: Antarctica is a continent
     
-  - Phrase: "{ma Apika} li {ma suli}"
+  - Phrase: "{ma Apika} li ma suli"
     Translation: Africa is a continent
     
-  - Phrase: "{ma Asija} li {ma suli}"
+  - Phrase: "{ma Asija} li ma suli"
     Translation: Asia is a continent
     
-  - Phrase: "{ma Elopa} li {ma suli}"
+  - Phrase: "{ma Elopa} li ma suli"
     Translation: Europe is a continent
     
-  - Phrase: "{ma Osejanija} li {ma suli}"
+  - Phrase: "{ma Osejanija} li ma suli"
     Translation: Oceania is a continent
     
   - Phrase: mi tan "{ma Amelika}"
