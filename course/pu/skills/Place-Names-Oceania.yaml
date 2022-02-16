@@ -36,189 +36,187 @@ New words:
     Translation: Vanuata
     
 Phrases:
-  - Phrase: "mi tawa _"
-    Translation: "I am going to _"
+  - Phrase: "mi tawa {ma Intonesija}"
+    Translation: "I am going to Indonesia"
     
-  - Phrase: "mi tawa _"
-    Translation: "I am going to _"
+  - Phrase: "mi tawa {ma Kilipasi}"
+    Translation: "I am going to Kiribati"
     
-  - Phrase: "mi tawa _"
-    Translation: "I am going to _"
+  - Phrase: "mi tawa {ma Nusilan}"
+    Translation: "I am going to {New Zealand}"
     
-  - Phrase: "mi tawa _"
-    Translation: "I am going to _"
+  - Phrase: "mi tawa {ma Oselija}"
+    Translation: "I am going to Australia"
     
-  - Phrase: "mi tawa _"
-    Translation: "I am going to _"
+  - Phrase: "mi tawa {ma Papuwanijukini}"
+    Translation: "I am going to {Papua New Guinea}"
   
-  - Phrase: "mi tawa _"
-    Translation: "I am going to _"
+  - Phrase: "mi tawa {ma Pisi}"
+    Translation: "I am going to Fiji"
     
-  - Phrase: "mi tawa _"
-    Translation: "I am going to _"
+  - Phrase: "mi tawa {ma Samowa}"
+    Translation: "I am going to Samoa"
     
-  - Phrase: "mi tawa _"
-    Translation: "I am going to _"
+  - Phrase: "mi tawa {ma Tona}"
+    Translation: "I am going to Tonga"
     
-  - Phrase: "mi tawa _"
-    Translation: "I am going to _"
+  - Phrase: "mi tawa {ma Tuwalu}"
+    Translation: "I am going to Tuvalu"
     
-  - Phrase: "mi tawa _"
-    Translation: "I am going to _"
+  - Phrase: "mi tawa {ma Wanuwatu}"
+    Translation: "I am going to Vanuata"
   
-  - Phrase: "_ li ma"
-    Translation: "_ are continents"
+  - Phrase: "{ma Intonesija} li ma"
+    Translation: "Indonesia is a country"
     
-  - Phrase: "_ li ma"
-    Translation: "_ are continents"
+  - Phrase: "{ma Kilipasi} li ma"
+    Translation: "Kiribati is a country"
     
-  - Phrase: "_ li ma"
-    Translation: "_ are continents"
+  - Phrase: "{ma Nusilan} li ma"
+    Translation: "{New Zealand} is a country"
     
-  - Phrase: "_ li ma"
-    Translation: "_ are continents"
+  - Phrase: "{ma Oselija} li ma"
+    Translation: "Australia is a country"
     
-  - Phrase: "_ li ma"
-    Translation: "_ are continents"
+  - Phrase: "{ma Papuwanijukini} li ma"
+    Translation: "{Papua New Guinea} is a country"
     
-  - Phrase: "_ li ma"
-    Translation: "_ are continents"
+  - Phrase: "{ma Pisi} li ma"
+    Translation: "Fiji is a country"
     
-  - Phrase: "_ li ma"
-    Translation: "_ are continents"
+  - Phrase: "{ma Samowa} li ma"
+    Translation: "Samoa is a country"
     
-  - Phrase: "_ li ma"
-    Translation: "_ are continents"
+  - Phrase: "{ma Tona} li ma"
+    Translation: "Tonga is a country"
     
-  - Phrase: "_ li ma"
-    Translation: "_ are continents"
+  - Phrase: "{ma Tuwalu} li ma"
+    Translation: "Tuvalu is a country"
     
-  - Phrase: "_ li ma"
-    Translation: "_ are continents"
+  - Phrase: "{ma Wanuwatu} li ma"
+    Translation: "Vanuata is a country"
     
-  - Phrase: "mi tan _"
+  - Phrase: "mi tan {ma Intonesija}"
     Alternative versions:
-    - "mi kama tan _"
-    Translation: "I come from _"
+    - "mi kama tan {ma Intonesija}"
+    Translation: "I come from Indonesia"
     
-  - Phrase: "mi tan _"
+  - Phrase: "mi tan {ma Kilipasi}"
     Alternative versions:
-    - "mi kama tan _"
-    Translation: "I come from _"
+    - "mi kama tan {ma Kilipasi}"
+    Translation: "I come from Kiribati"
     
-  - Phrase: "mi tan _"
+  - Phrase: "mi tan {ma Nusilan}"
     Alternative versions:
-    - "mi kama tan _"
-    Translation: "I come from _"
+    - "mi kama tan {ma Nusilan}"
+    Translation: "I come from {New Zealand}"
     
-  - Phrase: "mi tan _"
+  - Phrase: "mi tan {ma Oselija}"
     Alternative versions:
-    - "mi kama tan _"
-    Translation: "I come from _"
+    - "mi kama tan {ma Oselija}"
+    Translation: "I come from Australia"
     
-  - Phrase: "mi tan _"
+  - Phrase: "mi tan {ma Papuwanijukini}"
     Alternative versions:
-    - "mi kama tan _"
-    Translation: "I come from _"
+    - "mi kama tan {ma Papuwanijukini}"
+    Translation: "I come from {Papua New Guinea}"
     
-  - Phrase: "mi tan _"
+  - Phrase: "mi tan {ma Pisi}"
     Alternative versions:
-    - "mi kama tan _"
-    Translation: "I come from _"
+    - "mi kama tan {ma Pisi}"
+    Translation: "I come from Fiji"
     
-  - Phrase: "mi tan _"
+  - Phrase: "mi tan {ma Samowa}"
     Alternative versions:
-    - "mi kama tan _"
-    Translation: "I come from _"
+    - "mi kama tan {ma Samowa}"
+    Translation: "I come from Samoa"
     
-  - Phrase: "mi tan _"
+  - Phrase: "mi tan {ma Tona}"
     Alternative versions:
-    - "mi kama tan _"
-    Translation: "I come from _"
+    - "mi kama tan {ma Tona}"
+    Translation: "I come from Tonga"
     
-  - Phrase: "mi tan _"
+  - Phrase: "mi tan {ma Tuwalu}"
     Alternative versions:
-    - "mi kama tan _"
-    Translation: "I come from _"
+    - "mi kama tan {ma Tuwalu}"
+    Translation: "I come from Tuvalu"
+  
+  - Phrase: "mi tan {ma Wanuwatu}"
+    Alternative versions:
+    - "mi kama tan {ma Wanuwatu}"
+    Translation: "I come from Vanuata"
     
-  - Phrase: "mi tan _"
+  - Phrase: "tomo mi li lon ma tomo {ma Intonesija}"
     Alternative versions:
-    - "mi kama tan _"
-    Translation: "I come from _"
+    - "mi kama awen lon ma tomo {ma Intonesija}"
+    - "mi lon {ma Intonesija}"
+    - "ma tomo mi li lon ma tomo {ma Intonesija}"
+    Translation: "I live in Indonesia"
     
-  - Phrase: "tomo mi li lon ma tomo _"
+  - Phrase: "tomo mi li lon ma tomo {ma Kilipasi}"
     Alternative versions:
-    - "mi kama awen lon ma tomo _"
-    - "mi lon _"
-    - "ma tomo mi li lon ma tomo _" 
-    Translation: "I live in _"
+    - "mi kama awen lon ma tomo {ma Kilipasi}"
+    - "mi lon {ma Kilipasi}"
+    - "ma tomo mi li lon ma tomo {ma Kilipasi}" 
+    Translation: "I live in Kiribati"
     
-  - Phrase: "tomo mi li lon ma tomo _"
+  - Phrase: "tomo mi li lon ma tomo {ma Nusilan}"
     Alternative versions:
-    - "mi kama awen lon ma tomo _"
-    - "mi lon _"
-    - "ma tomo mi li lon ma tomo _" 
-    Translation: "I live in _"
+    - "mi kama awen lon ma tomo {ma Nusilan}"
+    - "mi lon {ma Nusilan}"
+    - "ma tomo mi li lon ma tomo {ma Nusilan}" 
+    Translation: "I live in {New Zealand}"
     
-  - Phrase: "tomo mi li lon ma tomo _"
+  - Phrase: "tomo mi li lon ma tomo {ma Oselija}"
     Alternative versions:
-    - "mi kama awen lon ma tomo _"
-    - "mi lon _"
-    - "ma tomo mi li lon ma tomo _" 
-    Translation: "I live in _"
+    - "mi kama awen lon ma tomo {ma Oselija}"
+    - "mi lon {ma Oselija}"
+    - "ma tomo mi li lon ma tomo {ma Oselija}" 
+    Translation: "I live in Australia"
     
-  - Phrase: "tomo mi li lon ma tomo _"
+  - Phrase: "tomo mi li lon ma tomo {ma Papuwanijukini}"
     Alternative versions:
-    - "mi kama awen lon ma tomo _"
-    - "mi lon _"
-    - "ma tomo mi li lon ma tomo _" 
-    Translation: "I live in _"
+    - "mi kama awen lon ma tomo {ma Papuwanijukini}"
+    - "mi lon {ma Papuwanijukini}"
+    - "ma tomo mi li lon ma tomo {ma Papuwanijukini}"
+    Translation: "I live in {Papua New Guinea}"
     
-  - Phrase: "tomo mi li lon ma tomo _"
+  - Phrase: "tomo mi li lon ma tomo {ma Pisi}"
     Alternative versions:
-    - "mi kama awen lon ma tomo _"
-    - "mi lon _"
-    - "ma tomo mi li lon ma tomo _" 
-    Translation: "I live in _"
+    - "mi kama awen lon ma tomo {ma Pisi}"
+    - "mi lon {ma Pisi}"
+    - "ma tomo mi li lon ma tomo {ma Pisi}"
+    Translation: "I live in Fiji"
     
-  - Phrase: "tomo mi li lon ma tomo _"
+  - Phrase: "tomo mi li lon ma tomo {ma Samowa}"
     Alternative versions:
-    - "mi kama awen lon ma tomo _"
-    - "mi lon _"
-    - "ma tomo mi li lon ma tomo _" 
-    Translation: "I live in _"
+    - "mi kama awen lon ma tomo {ma Samowa}"
+    - "mi lon {ma Samowa}"
+    - "ma tomo mi li lon ma tomo {ma Samowa}"
+    Translation: "I live in Samoa"
     
-  - Phrase: "tomo mi li lon ma tomo _"
+  - Phrase: "tomo mi li lon ma tomo {ma Tona}"
     Alternative versions:
-    - "mi kama awen lon ma tomo _"
-    - "mi lon _"
-    - "ma tomo mi li lon ma tomo _" 
-    Translation: "I live in _"
+    - "mi kama awen lon ma tomo {ma Tona}"
+    - "mi lon {ma Tona}"
+    - "ma tomo mi li lon ma tomo {ma Tona}"
+    Translation: "I live in Tonga"
     
-  - Phrase: "tomo mi li lon ma tomo _"
+  - Phrase: "tomo mi li lon ma tomo {ma Tuwalu}"
     Alternative versions:
-    - "mi kama awen lon ma tomo _"
-    - "mi lon _"
-    - "ma tomo mi li lon ma tomo _" 
-    Translation: "I live in _"
+    - "mi kama awen lon ma tomo {ma Tuwalu}"
+    - "mi lon {ma Tuwalu}"
+    - "ma tomo mi li lon ma tomo {ma Tuwalu}"
+    Translation: "I live in Tuvalu"
     
-  - Phrase: "tomo mi li lon ma tomo _"
+  - Phrase: "tomo mi li lon ma tomo {ma Wanuwatu}"
     Alternative versions:
-    - "mi kama awen lon ma tomo _"
-    - "mi lon _"
-    - "ma tomo mi li lon ma tomo _" 
-    Translation: "I live in _"
-    
-  - Phrase: "tomo mi li lon ma tomo _"
-    Alternative versions:
-    - "mi kama awen lon ma tomo _"
-    - "mi lon _"
-    - "ma tomo mi li lon ma tomo _" 
-    Translation: "I live in _"
+    - "mi kama awen lon ma tomo {ma Wanuwatu}"
+    - "mi lon {ma Wanuwatu}"
+    - "ma tomo mi li lon ma tomo {ma Wanuwatu}"
+    Translation: "I live in Vanuata"
       
 Mini-dictionary: 
   toki pona: []
-#   - test: test
     
   English: []
- #  - test: test

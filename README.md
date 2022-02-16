@@ -19,7 +19,7 @@ Idea: Each skill has 5 words with two practise sentences
     Translation: "I am going to _"
   
   - Phrase: "_ li ma"
-    Translation: "_ are continents"
+    Translation: "_ is a country"
     
   - Phrase: "mi tan _"
     Alternative versions:
