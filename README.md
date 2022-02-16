@@ -39,7 +39,7 @@ Idea: Each skill has 5 words with two practise sentences
   - [ ] americas
   - [ ] asia
   - [ ] europe
-  - [ ] oceania
+  - [x] oceania
 - [ ] language names
   - [ ] langauges
   - [ ] sign languages

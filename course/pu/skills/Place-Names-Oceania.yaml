@@ -1,5 +1,3 @@
-# Add a markdown with this in it: These suggestions are generally based on how the words are pronounced in the local language.
-
 Skill:
   Id: 893b3fdb-a486-4d0f-8591-2842663cc4e8
   Name: "Place Names: Oceania"
@@ -220,5 +218,5 @@ Mini-dictionary:
   toki pona: []
     
   English: 
-  - a: (nonexistent direct equivalent)
-  - country: ma
+    - a: (nonexistent direct equivalent)
+    - country: ma
