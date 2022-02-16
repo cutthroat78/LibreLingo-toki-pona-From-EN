@@ -1,0 +1,47 @@
+# Add a markdown with this in it: These suggestions are generally based on how the words are pronounced in the local language.
+
+Skill:
+  Id: 893b3fdb-a486-4d0f-8591-2842663cc4e8
+  Name: "Place Names: Oceania"
+
+New words: 
+  - Word: ma Intonesija
+    Translation: Indonesia
+    
+  - Word: ma Kilipasi
+    Translation: Kiribati
+    
+  - Word: ma Nusilan
+    Translation: New Zealand
+    
+  - Word: ma Oselija
+    Translation: Australia
+    
+  - Word: ma Papuwanijukini
+    Translation: Papua New Guinea
+    
+  - Word: ma Pisi
+    Translation: Fiji
+    
+  - Word: ma Samowa
+    Translation: Samoa
+    
+  - Word: ma Tona
+    Translation: Tonga
+    
+  - Word: ma Tuwalu
+    Translation: Tuvalu
+    
+  - Word: ma Wanuwatu
+    Translation: Vanuata
+    
+Phrases:
+  - Phrase: 
+    Translation: 
+      
+Mini-dictionary: 
+  toki pona: []
+#   - test: test
+    
+  English: []
+ #  - test: test
