@@ -14,11 +14,25 @@ Idea: Each skill has 5 words with two practise sentences
   - [ ] seperate out phrases
 - [ ] place names 
 ### Phrases to use for place names: 
-- mi tawa _ = I am going to
-- mi kama awen lon ma tomo _ / mi lon ma _ / (ma) tomo mi li lon ma tomo _ = I live in _
-- mi (kama) tan _ = I come from _
-- _ li ma = _ is a country
-  - [ ] Add a markdown with this in it: These suggestions are generally based on how the words are pronounced in the local languages
+```
+  - Phrase: "mi tawa _"
+    Translation: "I am going to _"
+  
+  - Phrase: "_ li ma"
+    Translation: "_ are continents"
+    
+  - Phrase: "mi tan _"
+    Alternative versions:
+    - "mi kama tan _"
+    Translation: "I come from _"
+    
+  - Phrase: "tomo mi li lon ma tomo _"
+    Alternative versions:
+    - "mi kama awen lon ma tomo _"
+    - "mi lon _"
+    - "ma tomo mi li lon ma tomo _" 
+    Translation: "I live in _"
+```
   - [x] continents
     - [x] Add curly braces to continent words
   - [ ] africa
