@@ -8,7 +8,7 @@ A Librelingo Course to learn the toki pona constructed Language from English
 - [ ] Info:
   - [ ] What the langauge is and about
   - [ ] Pronunication guide
-  - [ ] Where words come from and how they came around (e.g like the words from pu, ku and the words made up by the community)
+  - [ ] Where words come from and how they came around/info on each sections after Basics (e.g like the words from pu, ku and the words made up by the community)
 ## Words
 - [ ] Figure out all words (when I get toki pona dictionary)
 ### From First Book
