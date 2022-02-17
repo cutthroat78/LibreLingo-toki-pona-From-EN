@@ -25,7 +25,7 @@ Modules:
 
 Mini-dictionary:
   toki pona:
-    - a: 
+    - a: # Start of pu words
       - (emphasis)
       - (emotion)
       - (confirmation)
@@ -697,4 +697,4 @@ Mini-dictionary:
       - require
       - should
       - want
-      - wish
+      - wish # End of pu words
