@@ -1,8 +1,5 @@
 # LibreLingo-toki-pona-From-English
 A Librelingo Course to learn the toki pona constructed Language from English
- 
-Idea for words: Each skill has 5 words with 5 practise sentences
-
 # To-Do
 - [ ] Make big proper mini dictionary and put into course.yaml
 ## Words
@@ -12,7 +9,24 @@ Idea for words: Each skill has 5 words with 5 practise sentences
 - [x] phrase book
   - [x] Do mini-dictionary
   - [ ] seperate out phrases
-- [ ] place names 
+- [ ] place names
+  - [x] continents
+    - [x] Add curly braces to continent words
+    - [ ] Add ma suli Amelika lete = North America & ma suli Amelika seli = South America
+    - [ ] Reduce amount of phrases
+  - [ ] Africa
+  - [ ] the Americas
+    - [ ] Sort country names for the Americas
+    - [ ] North America
+    - [ ] South America
+  - [ ] Asia
+  - [ ] Europe
+  - [x] Oceania
+    - [ ] Reduce amount of phrases
+- [ ] language names
+  - [ ] sign languages
+  - [ ] constructed langauges
+
 ### Phrases to use for place names: 
 ```
   - Phrase: "mi tawa _"
@@ -33,23 +47,6 @@ Idea for words: Each skill has 5 words with 5 practise sentences
     - "ma tomo mi li lon ma tomo _" 
     Translation: "I live in _"
 ```
-  - [x] continents
-    - [x] Add curly braces to continent words
-    - [ ] Add ma suli Amelika lete = North America & ma suli Amelika seli = South America
-    - [ ] Reduce amount of phrases
-  - [ ] Africa
-  - [ ] the Americas
-    - [ ] Sort words for the Americas
-    - [ ] North America
-    - [ ] South America   
-  - [ ] Asia
-  - [ ] Europe
-  - [x] Oceania
-    - [ ] Reduce amount of phrases
-- [ ] language names
-  - [ ] langauges
-  - [ ] sign languages
-  - [ ] constructed langauges
 
 ### Grammar
 - [ ] Figure out
