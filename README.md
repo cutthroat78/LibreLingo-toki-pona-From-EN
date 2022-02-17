@@ -1,7 +1,7 @@
 # LibreLingo-toki-pona-From-English
 A Librelingo Course to learn the toki pona constructed Language from English
 # To-Do
-- [ ] Make big proper mini dictionary and put into course.yaml
+- [x] Make big proper mini dictionary and put into course.yaml
 ## Words
 - [ ] Figure out all words (when I get toki pona dictionary)
 ### From First Book
