@@ -35,6 +35,7 @@ Idea: Each skill has 5 words with two practise sentences
 ```
   - [x] continents
     - [x] Add curly braces to continent words
+    - [ ] Add ma suli Amelika lete = North America & ma suli Amelika seli = South America
     - [ ] Reduce amount of phrases
   - [ ] africa
   - [ ] americas
