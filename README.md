@@ -2,6 +2,7 @@
 A Librelingo Course to learn the toki pona constructed Language from English
 # To-Do
 - [x] Make big proper mini dictionary and put into course.yaml
+- [ ] Go through mini-dictionary in skills files in pu and simply (Now that I have the big mini-dic in the course.yaml)
 ## Basics
 - [ ] Do three skills
 - [ ] Have basic phrases, words and sentences
