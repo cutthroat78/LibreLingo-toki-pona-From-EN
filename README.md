@@ -35,11 +35,13 @@ Idea: Each skill has 5 words with two practise sentences
 ```
   - [x] continents
     - [x] Add curly braces to continent words
+    - [ ] Reduce amount of phrases
   - [ ] africa
   - [ ] americas
   - [ ] asia
   - [ ] europe
   - [x] oceania
+    - [ ] Reduce amount of phrases
 - [ ] language names
   - [ ] langauges
   - [ ] sign languages
