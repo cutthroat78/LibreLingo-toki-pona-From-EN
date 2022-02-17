@@ -1,7 +1,7 @@
 # LibreLingo-toki-pona-From-English
 A Librelingo Course to learn the toki pona constructed Language from English
 
-Idea: Each skill has 5 words with two practise sentences
+Idea: Each skill has 5 words with 5 practise sentences
 
 # To-Do
 - [ ] Make big proper mini dictionary and put into course.yaml
