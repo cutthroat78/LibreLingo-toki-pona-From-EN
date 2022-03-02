@@ -3,13 +3,12 @@ Module:
 
 Skills:
   - Phrase-Book.yaml
-  - Place-Names-Continents.yaml
-  - Place-Names-Africa.yaml
-  - Place-Names-Asia.yaml
-  - Place-Names-Europe.yaml
-  - Place-Names-North-America.yaml
-  - Place-Names-South-America.yaml
-  - Place-Names-Oceania.yaml
-  - Language-Names.yaml
-  - Sign-Language-Names.yaml
-  - Constructed-Language-Names.yaml
+  - Languages.yaml
+  - Conlangs.yaml
+  - Sign-Languages.yaml
+  - Continents.yaml
+  - Africa.yaml
+  - Asia.yaml
+  - Europe.yaml
+  - North-America.yaml
+  - South-America.yaml
