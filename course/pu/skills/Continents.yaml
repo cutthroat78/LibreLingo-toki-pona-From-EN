@@ -33,8 +33,43 @@ New words:
     Translation: Oceania
 
 Phrases:
-  - Phrase: _
-    Translation: _
+   - Phrase: "mi tawa _"
+    Translation: "I am going to _"
+  
+  - Phrase: "_ li ma suli"
+    Translation: "_ is a country"
+    
+  - Phrase: "mi tan _"
+    Alternative versions:
+    - "mi kama tan _"
+    Translation: "I come from _"
+    
+  - Phrase: "mi lon _"
+    Alternative versions:
+    - "mi moli ala _"
+    - "mi kama awen lon ma tomo _"
+    - "tomo mi li lon ma tomo _"
+    - "ma tomo mi li lon ma tomo _" 
+    Translation: "I live in _"
+  
+   - Phrase: "mi tawa _"
+    Translation: "I am going to _"
+  
+  - Phrase: "_ li ma suli"
+    Translation: "_ is a country"
+    
+  - Phrase: "mi tan _"
+    Alternative versions:
+    - "mi kama tan _"
+    Translation: "I come from _"
+    
+  - Phrase: "mi lon _"
+    Alternative versions:
+    - "mi moli ala _"
+    - "mi kama awen lon ma tomo _"
+    - "tomo mi li lon ma tomo _"
+    - "ma tomo mi li lon ma tomo _" 
+    Translation: "I live in _"
     
 Mini-dictionary:
   toki pona:
