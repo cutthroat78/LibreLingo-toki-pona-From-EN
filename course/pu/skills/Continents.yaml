@@ -36,7 +36,7 @@ Phrases:
    - Phrase: "mi tawa _"
     Translation: "I am going to _"
   
-  - Phrase: "_ li ma suli"
+  - Phrase: "_ li {ma suli}"
     Translation: "_ is a country"
     
   - Phrase: "mi tan _"
@@ -55,7 +55,7 @@ Phrases:
    - Phrase: "mi tawa _"
     Translation: "I am going to _"
   
-  - Phrase: "_ li ma suli"
+  - Phrase: "_ li {ma suli}"
     Translation: "_ is a country"
     
   - Phrase: "mi tan _"
