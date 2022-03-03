@@ -9,11 +9,13 @@ A Librelingo Course to learn the toki pona constructed Language from English
 - [ ] Info:
   - [ ] What the langauge is and about
   - [ ] Pronunication guide
-  - [ ] Where words come from and how they came around/info on each sections after Basics (e.g like the words from pu, ku and the words made up by the community)
 ## Words
 - [ ] nimi pu
 - [ ] nimi ku suli
 - [ ] nimi ku
+- [ ] First thing of pu words will have explanation of nimi pu
+- [ ] First thing of nimi ku suli will have explanation of nimi ku suli
+- [ ] irst thing of nimi ku will have explanation of nimi ku
 ### From First Book
 - [ ] Original words from first book
 - [x] phrase book
@@ -36,7 +38,6 @@ A Librelingo Course to learn the toki pona constructed Language from English
 - [ ] language names
   - [ ] sign languages
   - [ ] constructed langauges
-
 ### Phrases to use for place names: 
 ```
   - Phrase: "mi tawa _"
@@ -57,7 +58,6 @@ A Librelingo Course to learn the toki pona constructed Language from English
     - "ma tomo mi li lon ma tomo _" 
     Translation: "I live in _"
 ```
-
 ### Grammar
 - [ ] Figure out
 - [ ] How to toki ponize names
