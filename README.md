@@ -10,7 +10,7 @@ A Librelingo Course to learn the toki pona constructed Language from English
 - [ ] Info:
   - [ ] What the langauge is and about
   - [ ] Pronunication guide
-  - [ ] Explain sections of course
+  - [ ] Explain sections of this course
 ## Words
 - [ ] nimi pu
 - [ ] nimi ku suli
