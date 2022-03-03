@@ -3,6 +3,8 @@ A Librelingo Course to learn the toki pona constructed Language from English
 # To-Do
 - [x] Make big proper mini dictionary and put into course.yaml
 - [ ] Go through mini-dictionary in skills files in pu and simplify (Now that I have the big mini-dic in the course.yaml)
+- [ ] Add all words for live to I live in phrase from ku
+- [ ] Update all lessons that use place name phrases with new ones
 ## Basics
 - [ ] Do three skills
 - [ ] Have basic phrases, words and sentences
@@ -38,7 +40,7 @@ A Librelingo Course to learn the toki pona constructed Language from English
 - [ ] language names
   - [ ] sign languages
   - [ ] constructed langauges
-### Phrases to use for place names: 
+### Phrases to use for place names:
 ```
   - Phrase: "mi tawa _"
     Translation: "I am going to _"
@@ -51,10 +53,11 @@ A Librelingo Course to learn the toki pona constructed Language from English
     - "mi kama tan _"
     Translation: "I come from _"
     
-  - Phrase: "tomo mi li lon ma tomo _"
+  - Phrase: "mi lon _"
     Alternative versions:
+    - "mi moli ala _"
     - "mi kama awen lon ma tomo _"
-    - "mi lon _"
+    - "tomo mi li lon ma tomo _"
     - "ma tomo mi li lon ma tomo _" 
     Translation: "I live in _"
 ```
