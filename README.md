@@ -2,7 +2,7 @@
 A Librelingo Course to learn the toki pona constructed Language from English
 # To-Do
 - [x] Make big proper mini dictionary and put into course.yaml
-- [ ] Go through mini-dictionary in skills files in pu and simply (Now that I have the big mini-dic in the course.yaml)
+- [ ] Go through mini-dictionary in skills files in pu and simplify (Now that I have the big mini-dic in the course.yaml)
 ## Basics
 - [ ] Do three skills
 - [ ] Have basic phrases, words and sentences
@@ -11,7 +11,9 @@ A Librelingo Course to learn the toki pona constructed Language from English
   - [ ] Pronunication guide
   - [ ] Where words come from and how they came around/info on each sections after Basics (e.g like the words from pu, ku and the words made up by the community)
 ## Words
-- [ ] Figure out all words (when I get toki pona dictionary)
+- [ ] pu
+- [ ] nimi ku suli
+- [ ] nimi ku
 ### From First Book
 - [ ] Original words from first book
 - [x] phrase book
