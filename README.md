@@ -15,7 +15,7 @@ A Librelingo Course to learn the toki pona constructed Language from English
 - [ ] nimi ku
 - [ ] First thing of pu words will have explanation of nimi pu
 - [ ] First thing of nimi ku suli will have explanation of nimi ku suli
-- [ ] irst thing of nimi ku will have explanation of nimi ku
+- [ ] First thing of nimi ku will have explanation of nimi ku
 ### From First Book
 - [ ] Original words from first book
 - [x] phrase book
