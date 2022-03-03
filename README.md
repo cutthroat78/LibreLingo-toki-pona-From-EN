@@ -26,8 +26,9 @@ A Librelingo Course to learn the toki pona constructed Language from English
 - [ ] place names
   - [x] continents
     - [x] Add curly braces to continent words
-    - [ ] Add ma suli Amelika lete = North America & ma suli Amelika seli = South America
-    - [ ] Reduce amount of phrases
+    - [x] Add ma suli Amelika lete = North America & ma suli Amelika seli = South America
+    - [x] Reduce amount of phrases
+    - [ ] fill in words for phrases
   - [ ] Africa
   - [ ] the Americas
     - [ ] Sort country names for the Americas
