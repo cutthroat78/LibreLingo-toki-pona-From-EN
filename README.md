@@ -3,7 +3,6 @@ A Librelingo Course to learn the toki pona constructed Language from English
 # To-Do
 - [x] Make big proper mini dictionary and put into course.yaml
 - [ ] Go through mini-dictionary in skills files in pu and simplify (Now that I have the big mini-dic in the course.yaml)
-- [ ] Add all words for live to I live in phrase from ku
 - [ ] Update all lessons that use place name phrases with new ones
 ## Basics
 - [ ] Do three skills
