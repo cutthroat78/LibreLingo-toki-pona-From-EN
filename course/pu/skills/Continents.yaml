@@ -33,43 +33,45 @@ New words:
     Translation: Oceania
 
 Phrases:
-   - Phrase: "mi tawa _"
-    Translation: "I am going to _"
+   - Phrase: "mi tawa {ma Amelika}"
+    Translation: "I am going to Americas"
+    Alternative Translations:
+    - "I am going to {the Americas}"
   
-  - Phrase: "_ li {ma suli}"
-    Translation: "_ is a country"
+  - Phrase: "{ma Amelika lete} li {ma suli}"
+    Translation: "{North America} is a country"
     
-  - Phrase: "mi tan _"
+  - Phrase: "mi tan {ma Amelika seli}"
     Alternative versions:
-    - "mi kama tan _"
-    Translation: "I come from _"
+    - "mi kama tan {ma Amelika seli}"
+    Translation: "I come from {South America}"
     
-  - Phrase: "mi lon _"
+  - Phrase: "mi lon {ma Antasika}"
     Alternative versions:
-    - "mi moli ala _"
-    - "mi kama awen lon ma tomo _"
-    - "tomo mi li lon ma tomo _"
-    - "ma tomo mi li lon ma tomo _" 
-    Translation: "I live in _"
+    - "mi moli ala {ma Antasika}"
+    - "mi kama awen lon ma tomo {ma Antasika}"
+    - "tomo mi li lon ma tomo {ma Antasika}"
+    - "ma tomo mi li lon ma tomo {ma Antasika}" 
+    Translation: "I live in Antarctica"
   
-   - Phrase: "mi tawa _"
-    Translation: "I am going to _"
+   - Phrase: "mi tawa {ma Apika}"
+    Translation: "I am going to Africa"
   
-  - Phrase: "_ li {ma suli}"
-    Translation: "_ is a country"
+  - Phrase: "{ma Asija} li {ma suli}"
+    Translation: "Asia is a country"
     
-  - Phrase: "mi tan _"
+  - Phrase: "mi tan {ma Elopa}"
     Alternative versions:
-    - "mi kama tan _"
-    Translation: "I come from _"
+    - "mi kama tan {ma Elopa}"
+    Translation: "I come from Europe"
     
-  - Phrase: "mi lon _"
+  - Phrase: "mi lon {ma Osejanija}"
     Alternative versions:
-    - "mi moli ala _"
-    - "mi kama awen lon ma tomo _"
-    - "tomo mi li lon ma tomo _"
-    - "ma tomo mi li lon ma tomo _" 
-    Translation: "I live in _"
+    - "mi moli ala {ma Osejanija}"
+    - "mi kama awen lon ma tomo {ma Osejanija}"
+    - "tomo mi li lon ma tomo {ma Osejanija}"
+    - "ma tomo mi li lon ma tomo {ma Osejanija}" 
+    Translation: "I live in Oceania"
     
 Mini-dictionary:
   toki pona:
