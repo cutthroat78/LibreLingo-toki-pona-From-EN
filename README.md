@@ -22,7 +22,7 @@ A Librelingo Course to learn the toki pona constructed Language from English
 - [ ] Original words from first book
 - [x] phrase book
   - [x] Do mini-dictionary
-  - [ ] seperate out phrases
+  - [x] seperate out phrases
 - [ ] place names
   - [x] continents
     - [x] Add curly braces to continent words
