@@ -14,31 +14,41 @@ Phrases:
       
   - Phrase: pona
     Translation: great
-    Alternative translations:
-      - thanks
-      - OK
+
+  - Phrase: pona
+    Translation: thanks
+
+  - Phrase: pona
+    Translation: OK
   
   - Phrase: pona tawa sina
     Translation: peace be with you
     
-  - Phrase: mi tawa
+  - Phrase: "{mi tawa}"
     Translation: bye
     
-  - Phrase: tawa pona
+  - Phrase: "{tawa pona}"
     Translation: bye
     
   - Phrase: mi wile
     Alternative versions:
       - mi wile e ni
     Translation: please
-    Alternative translations:
-    - I would like
+
+  - Phrase: mi wile
+    Alternative versions:
+      - mi wile e ni
+    Translation: I would like
     
   - Phrase: ale li pona
     Translation: all is well
+
+  - Phrase: ale li pona
+    Translation: life is good
+
+  - Phrase: ale li pona
+    Translation: don't worry
     Alternative translations:
-    - life is good
-    - don't worry
     - do not worry
     
   - Phrase: ike a
@@ -79,7 +89,9 @@ Phrases:
     Translation: you're cool
     Alternative translations:
     - you are cool
-    - I like you
+
+  - Phrase: sina pona
+    Translation: I like you
     
   - Phrase: mi olin e sina
     Translation: I love you
