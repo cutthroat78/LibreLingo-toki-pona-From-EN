@@ -1,7 +1,6 @@
 # LibreLingo-toki-pona-From-English
 A Librelingo Course to learn the toki pona constructed Language from English
 # To-Do
-- [x] Make big proper mini dictionary and put into course.yaml
 - [ ] Go through mini-dictionary in skills files in pu and simplify (Now that I have the big mini-dic in the course.yaml)
 - [ ] Update all lessons that use place name phrases with new ones
 ## Basics
@@ -20,15 +19,7 @@ A Librelingo Course to learn the toki pona constructed Language from English
 - [ ] First thing of nimi ku will have explanation of nimi ku
 ### From First Book
 - [ ] Original words from first book
-- [x] phrase book
-  - [x] Do mini-dictionary
-  - [x] seperate out phrases
 - [ ] place names
-  - [x] continents
-    - [x] Add curly braces to continent words
-    - [x] Add ma suli Amelika lete = North America & ma suli Amelika seli = South America
-    - [x] Reduce amount of phrases
-    - [x] fill in words for phrases
   - [ ] Africa
   - [ ] the Americas
     - [ ] Sort country names for the Americas
@@ -62,6 +53,36 @@ A Librelingo Course to learn the toki pona constructed Language from English
     - "ma tomo mi li lon ma tomo _" 
     Translation: "I live in _"
 ```
+<!--
+# South America
+Argentina
+Ecuador
+Paraguay
+Brasil
+Peru
+Venezuela
+Chile
+Uruguay
+
+# North America
+United States
+Canada
+Greenland
+Mexico
+Cuba
+Haiti
+Guatemala
+Grenada
+Costa Rica
+Honduras
+Barbados
+Bahamas
+Panama
+Bermuda
+Jamaica
+Trinidad and Tobago
+Dominican Republic
+-->
 ### Grammar
 - [ ] Figure out
 - [ ] How to toki ponize names
