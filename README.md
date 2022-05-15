@@ -28,7 +28,6 @@ This course is made by only using the pu and ku books
     - South America
   - Asia
   - Europe
-  - [x] Oceania
 - language names
   - sign languages
   - constructed langauges
