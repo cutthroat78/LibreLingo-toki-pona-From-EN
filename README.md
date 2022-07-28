@@ -5,6 +5,7 @@ This course is made by only using the pu and ku books
 # To-Do
 - Go through mini-dictionary in skills files in pu and simplify (Now that I have the big mini-dic in the course.yaml)
 - Update all lessons that use place name phrases with new ones
+- Make mini-dictionary in course.yaml a two way dictionary
 ## Basics
 - Do three skills
 - Have basic phrases, words and sentences
