@@ -1,4 +1,4 @@
-# LibreLingo-toki-pona-From-English
+# LibreLingo Course: toki pona From English
 A Librelingo Course to learn the toki pona constructed Language from English
 
 This course is made by only using the pu and ku books
